@@ -23,7 +23,7 @@ Hey, it's **your friendly dev!** 🚀 Welcome to **Simple Calculator**, a web-ba
 
 1️⃣ **Clone the Repository:**  
    ```sh
-   git clone https://github.com/Aruleeswarangithub/calculator.git
+   git clone https://github.com/Aruleeswarangithub/Codsoft_task3.git
    ```
 2️⃣ **Navigate to the Project Folder:**  
    ```sh
